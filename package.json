@@ -1,9 +1,9 @@
 {
-  "name": "sprite-loader",
+  "name": "sprite-pr-loader",
   "version": "0.3.7",
-  "description": "A image sprite loader for webpack.",
+  "description": "A image sprite loader for webpack and support pr.",
   "main": "index.js",
-  "author": "liwei <vinnyguitar@126.com>",
+  "author": "zhanfang <fzhanxd@gmail.com>",
   "keywords": [
     "sprite",
     "webpack",
@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:youzan/sprite-loader.git"
+    "url": "git@github.com:zhanfang/sprite-loader.git"
   },
   "license": "MIT"
 }
